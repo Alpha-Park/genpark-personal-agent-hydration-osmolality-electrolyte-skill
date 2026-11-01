@@ -1,0 +1,10 @@
+{
+  "name": "genpark-personal-agent-hydration-osmolality-electrolyte-skill",
+  "version": "1.0.0",
+  "description": "Personal Agent Hydration Osmolality Electrolyte - Zero-dependency sweat rate sodium loss estimator, subclinical dehydration cognitive deficit modeler, and personalized fluid/electrolyte schedule generator.",
+  "tools": [
+    "estimate_hourly_sweat_and_electrolyte_loss",
+    "evaluate_subclinical_dehydration_cognitive_deficit",
+    "generate_personalized_hydration_schedule"
+  ]
+}
